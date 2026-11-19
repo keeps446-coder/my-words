@@ -1,0 +1,25 @@
+{
+  "name": "MY WORDS - 나만의 영어 단어장",
+  "short_name": "MY WORDS",
+  "description": "영어 단어 암기, 예문 듣기, 퀴즈, 복습을 오프라인으로",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#1679ca",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
